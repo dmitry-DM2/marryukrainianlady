@@ -5,4 +5,8 @@ public class Data {
     public static final String userNick = "dmstest";
     public static final String userPhone = "+380961111111";
     public static final String locationCity = "Odessa";
+
+    // Gallery Data
+    public static final String registrationDate = "Registration date";
+    public static final String registrationDateValue = "date_created";
 }
